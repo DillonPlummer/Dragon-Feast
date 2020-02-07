@@ -19,7 +19,7 @@ body {
 #hero-img {
   height: 100vh;
   width: 100%;
-  background-image: url("/img/ingredients.jpeg");
+  background-image: url("./img/ingredients.jpeg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -33,7 +33,7 @@ body {
 #scroll-img-1 {
   height:55vh;
   width: 100%;
-  background-image: url("/img/app-beef-potstickers.jpg");
+  background-image: url("./img/app-beef-potstickers.jpg");
   /* background-attachment: fixed; */
   background-position: center;
   background-repeat: no-repeat;
@@ -43,7 +43,7 @@ body {
 #scroll-img-2 {
   height:55vh;
   width: 100%;
-  background-image: url("/img/main-orange-chicken.jpg");
+  background-image: url("./img/main-orange-chicken.jpg");
   /* background-attachment: fixed; */
   background-position: center;
   background-repeat: no-repeat;
