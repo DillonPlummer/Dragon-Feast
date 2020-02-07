@@ -1,0 +1,13 @@
+{
+  "name": "dragonFeast",
+  "version": "1.0.0",
+  "description": "Traditional Chinese cuisine for the modern palate",
+  "main": "public.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dillon Plummer",
+  "license": "ISC",
+  "dependencies": {}
+}

@@ -1,0 +1,76 @@
+body {
+  background: #ffffff;
+}
+
+.navbar-custom {
+  background: #ffffff;
+  font-size: 1.2em;
+  height: 10vh;
+}
+
+.navbar-brand {
+  color: #000000;
+}
+
+.navbar a:hover {
+  color: #f22b29;
+}
+
+#hero-img {
+  height: 100vh;
+  width: 100%;
+  background-image: url("/img/ingredients.jpeg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.dish-container {
+  padding: 5em;
+}
+
+#scroll-img-1 {
+  height:55vh;
+  width: 100%;
+  background-image: url("/img/app-beef-potstickers.jpg");
+  /* background-attachment: fixed; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#scroll-img-2 {
+  height:55vh;
+  width: 100%;
+  background-image: url("/img/main-orange-chicken.jpg");
+  /* background-attachment: fixed; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.heading {
+  color: #f22b29;
+}
+
+hr {
+  background-color: #f22b29;
+}
+
+footer {
+  position: absolute;
+  /* bottom: 0; */
+  min-width: 100%;
+  background-color: #ffffff;
+  color: #aaaaaa;
+}
+
+footer a {
+  color: #aaaaaa;
+  text-decoration: underline;
+}
+
+footer a:hover {
+  color: #f22b29;
+}
